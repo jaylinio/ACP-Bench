@@ -29,6 +29,10 @@ Some whole-slide image derivatives, model-attention inputs and source materials 
 
 Initial public release is in progress. Until the release is complete, this repository should be treated as the canonical landing page for ACP-Bench rather than a complete reproduction package.
 
+## Available Files
+
+- [`figures/fig1a.pdf`](figures/fig1a.pdf): overview panel for the ACP-Bench study.
+
 ## Citation
 
 Citation information will be added after manuscript submission or preprint release.
